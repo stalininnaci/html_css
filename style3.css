@@ -1,0 +1,63 @@
+div{
+    border: 3px solid black;
+}
+.menu{
+    background-color:blue;
+     height:50px;
+}
+     .banner{
+        background-color:rgb(214, 18, 61);
+         height:400px;
+     }
+     .content1{
+        background-color:rgb(76, 222, 19);
+         height:150px;
+     }
+     .content2{
+        background-color:rgb(15, 198, 239);
+         height:150px;
+     }
+     .content3{
+        background-color:rgb(76, 222, 19);
+         height:150px;
+     }
+     .content4{
+        background-color:rgb(19, 222, 222);
+         height:150px;
+     }
+     .recent{
+        background-color:rgb(210, 47, 18);
+         height:400px;
+     }
+     .image{
+        background-color:rgb(25, 10, 196);
+         height:400px;
+     }
+     .partner{
+        background-color:rgb(76, 222, 19);
+         height:150px;
+     }
+     .logos{
+        background-color:rgb(25, 203, 194);
+         height:200px;
+     }
+     .content{
+        background-color:rgb(162, 12, 196);
+         height:300px;
+     }
+     .banner1{
+        background-color:rgb(212, 175, 26);
+         height:300px;
+     }
+     .hello{
+        background-color:rgb(224, 233, 221);
+         height:250px;
+     }
+     .end1{
+        background-color:rgb(135, 23, 209);
+         height:250px;
+     }
+     .end2{
+        background-color:rgb(11, 122, 191);
+         height:250px;
+     }
